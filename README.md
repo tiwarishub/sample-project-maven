@@ -1,7 +1,7 @@
 # web3j Sample Project
 
 This project provides a very simple starter application for working with web3j and the test 
-Ethereum network (testnet) known as Rinkeby.
+Ethereum network (testnet) known as Rinkeby. 
 
 The demo deploys a *hello world* smart contract which contains a greeting message. The current 
 greeting message can be read and modified in the smart contract.  
